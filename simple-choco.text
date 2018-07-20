@@ -1,0 +1,10 @@
+
+choco install googlechrome
+choco install git
+choco install nodejs.install
+choco install python3
+choco install python2
+choco install vscode
+
+# github desktop
+choco install github
